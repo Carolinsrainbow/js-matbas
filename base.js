@@ -11,3 +11,5 @@ console.log(suma);
 console.log(resta);
 console.log(multiplicacion);
 console.log(division);
+
+alert(suma, resta, multiplicacion, division);
