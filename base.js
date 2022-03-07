@@ -12,4 +12,13 @@ console.log(resta);
 console.log(multiplicacion);
 console.log(division);
 
-alert(suma, resta, multiplicacion, division);
+alert(
+  "Suma:" +
+    suma +
+    " Resta: " +
+    resta +
+    " Multiplicación: " +
+    multiplicacion +
+    " División: " +
+    division
+);
